@@ -1,0 +1,4 @@
+D:\Practise\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.dll
+D:\Practise\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.pdb
+D:\Practise\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.dll
+D:\Practise\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.pdb
